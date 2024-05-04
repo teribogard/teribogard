@@ -1,4 +1,3 @@
-### Hi there 👋
 # Hey there! 👋
 
 I'm Amine Ersu, a [Your Profession/Interests] from Toronto, Canada. I love tinkering with [Your Interests/Specializations] and building cool stuff!
