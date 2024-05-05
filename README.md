@@ -5,8 +5,8 @@ I'm Amine Ersu, a [Your Profession/Interests] from Toronto, Canada. I love tinke
 ## What I'm into:
 
 - 💻 Coding in Java.
-- 🛠️ Playing with [Frameworks, libraries, tools you use]
-- 🚀 Exploring [Any specific areas you're interested in]
+- 🛠️ Playing with IntelliJ,GitHub
+- 🚀 Exploring Phyton
 
 ## My Projects:
 
