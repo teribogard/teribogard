@@ -1,6 +1,6 @@
 ## Hey 👋, This is Amine Ersu
 [![Gmail Badge](https://img.shields.io/badge/-amine.ersu@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:amine.ersu@gmail.com)](mailto:amine.ersu@gmail.com) [![Github Badge](https://img.shields.io/badge/-ersuamine-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ersuamine/)](https://www.github.com/ersuamine/) <p align='left'>I am learning Java and GitHub</p>
-## Some of my Github Stats
+
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ersuamine alt=ersuamine /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ersuamine&show_icons=true&include_all_commits=true)](https://github.com/ersuamine/github-readme-stats)
