@@ -3,6 +3,7 @@
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ersuamine alt=ersuamine /> </p>
 
+## Some of my projects
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ersuamine&show_icons=true&include_all_commits=true)](https://github.com/ersuamine/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ersuamine&layout=compact)](https://github.com/ersuamine/github-readme-stats)
 
